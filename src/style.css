@@ -1,0 +1,17 @@
+
+header h1{
+    font-family: sans-serif;
+    text-align: center;
+}
+.player-options,.enemy-options{
+    width: 50%;
+}
+.player-options img,.enemy-options img{
+    max-width: 200px;
+    opacity: 0.4;
+    cursor: pointer;
+}
+.align{
+    display: flex;
+}
+.vencedor{text-align: center;}
